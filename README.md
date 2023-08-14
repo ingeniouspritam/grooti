@@ -1,0 +1,2 @@
+# grooti
+for photography website
